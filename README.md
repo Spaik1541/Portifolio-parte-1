@@ -1,4 +1,3 @@
-[README_Portfolio.md](https://github.com/user-attachments/files/22373220/README_Portfolio.md)
 # 📁 Portfólio Pessoal – Parte 1
 
 Este é meu projeto final desenvolvido durante o curso **Tecnologia Web - Engenharia da Computação (Front-End)**. Trata-se de um site de portfólio pessoal com informações sobre mim, meus projetos e formas de contato.
